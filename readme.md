@@ -2,8 +2,6 @@
 
 ### Web-site on CSS Grid System
 
-# Smitler Template
-
 ### [Demo](http://news-grid-ab.surge.sh)
 [![IMAGE ALT TEXT HERE](./screen.png)](https://nimb.ws/HWwbBm)
 
